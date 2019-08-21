@@ -11,3 +11,14 @@ nav{
 .nav-container a{
     margin: 1em;
 }
+
+.puppy-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.puppy-container img{
+    margin: 1em;
+    width: 500px;
+}
